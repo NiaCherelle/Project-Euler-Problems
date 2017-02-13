@@ -1,2 +1,4 @@
 # Project-Euler-Problems
-All the problems i complete on Project Euler are posted here for review and feedback regarding how i can approach the problem better and more efficently
+All the problems i complete on Project Euler are posted here.
+I absolutely welcome feedback as im just beginning to learn python and programming in general so my code will be less clean and efficent than others.
+
